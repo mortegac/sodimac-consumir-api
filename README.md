@@ -5,7 +5,7 @@
 En este ejercicio realizamos un ejemplo utilizando:
 - [Hooks](https://es.reactjs.org/docs/hooks-effect.html)
 
-- [Fetch](https://es.reactjs.org/docs/context.html)
+- [Fetch](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch)
 
 - [Api reqres.in](https://reqres.in/api/users?per_page=20)
 
